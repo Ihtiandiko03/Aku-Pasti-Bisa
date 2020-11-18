@@ -1,0 +1,1 @@
+print("Yuk, belajar progamming!")
